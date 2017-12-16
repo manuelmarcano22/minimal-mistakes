@@ -53,6 +53,11 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 
+# Header
+header:
+  image                  : "/assets/images/compact.jpg"
+  caption                : "Photo credit: ©NASA/CXC/M.Weiss"
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -96,7 +101,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/manuelmarcano22/"
+  github           : "manuelmarcano22/"
   gitlab           :
   google_plus      :
   keybase          :
@@ -108,7 +113,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://twitter.com/ManuelMarcano"
+  twitter          : "ManuelMarcano"
   vine             :
   weibo            :
   xing             :
