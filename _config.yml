@@ -55,7 +55,7 @@ search                   : # true, false (default)
 
 # Header
 header:
-  image                  : "/assets/images/compact.jpg"
+  image                  : "/assets/images/compact2.png"
   caption                : "Photo credit: ©NASA/CXC/M.Weiss"
 
 # SEO Related
